@@ -1,0 +1,19 @@
+# Everyday command-line tools (MacPorts)
+git
+gh
+lazygit
+tmux
+neovim
+ripgrep
+fd
+bat
+fzf
+jq
+yq
+httpie
+wget
+direnv
+btop
+ncdu
+dust
+mise

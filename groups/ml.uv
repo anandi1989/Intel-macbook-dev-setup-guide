@@ -1,0 +1,4 @@
+# CPU-friendly ML tooling, installed as isolated uv tools.
+# Libraries like numpy/pandas/torch belong in per-project venvs: uv venv && uv pip install ...
+jupyterlab
+ruff

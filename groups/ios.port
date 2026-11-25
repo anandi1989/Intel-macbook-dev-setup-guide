@@ -1,0 +1,5 @@
+# iOS helper tools (MacPorts). Xcode itself comes from the App Store.
+xcodes
+swiftlint
+swiftformat
+xcbeautify

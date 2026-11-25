@@ -1,0 +1,11 @@
+name: shellcheck
+on: [push, pull_request]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Syntax check (bash 3.2-compatible scripts)
+        run: for f in *.sh; do bash -n "$f"; done
+      - name: ShellCheck
+        run: sudo apt-get install -y shellcheck && shellcheck -x *.sh

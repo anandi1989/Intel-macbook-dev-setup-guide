@@ -1,0 +1,12 @@
+# C/C++ toolchain (MacPorts). Apple clang already ships with the Command Line Tools;
+# remove clang-19/llvm-19 to skip long source builds.
+cmake
+ninja
+pkgconfig
+ccache
+meson
+doxygen
+lcov
+Bear
+clang-19
+llvm-19

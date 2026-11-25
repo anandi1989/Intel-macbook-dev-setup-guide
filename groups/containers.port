@@ -1,0 +1,4 @@
+# Lightweight containers: Colima instead of Docker Desktop (MacPorts)
+colima
+docker
+docker-compose

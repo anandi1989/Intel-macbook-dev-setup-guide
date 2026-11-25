@@ -1,0 +1,7 @@
+# Languages installed as prebuilt binaries via mise
+python@3.13
+uv@latest
+go@latest
+rust@latest
+java@temurin-21
+zig@latest

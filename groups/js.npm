@@ -1,0 +1,4 @@
+# Global npm packages (installed with the mise-managed Node)
+typescript
+tsx
+@biomejs/biome

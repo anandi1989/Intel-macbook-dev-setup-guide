@@ -1,0 +1,5 @@
+# Databases (MacPorts). Postgres/Redis need manual service setup afterwards.
+sqlite3
+postgresql16
+postgresql16-server
+redis

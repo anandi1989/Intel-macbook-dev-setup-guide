@@ -1,0 +1,5 @@
+# JavaScript runtimes via mise
+node@lts
+pnpm@latest
+bun@latest
+deno@latest
