@@ -1,4 +1,4 @@
-# IntelMacControl
+# Intel MacBook Development Setup Guide
 
 **A small, community-minded toolkit for keeping Intel Macs useful.**
 
